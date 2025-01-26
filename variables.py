@@ -1,7 +1,7 @@
 # Declare variables
 age = 40  
 height = 1.68  
-name = "Olawale Fasanya"  
+name = "Olawale Fasanya" 
 
 # Print variables with descriptive messages
 print(f"My name is {name}.")
